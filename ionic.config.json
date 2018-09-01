@@ -2,7 +2,8 @@
   "name": "church",
   "type": "ionic1",
   "integrations": {
-    "cordova": {}
+    "cordova": {},
+    "gulp": {}
   },
   "watchPatterns": [
     "scss/**/*",
